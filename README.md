@@ -53,7 +53,7 @@ You can esaily find me 📫
 - Git, Github
 - HTML, CSS
 - Ligthshot
-### 🖇️ Test-documentation
+### 📎 Test-documentation
 
 [- Checklist](https://github.com/DariaTkachukQA/DariaTkachuk/blob/main/Checklist%20for%20Ukrposhta.pdf)
 
