@@ -24,7 +24,7 @@ You can esaily find me 📫
 ![Static Badge](https://img.shields.io/badge/Daria_Tkachuk%20-%2026A5E4?style=plastic&logo=Telegram&labelColor=0A66C2&color=blue&link=https%3A%2F%2Ft.me%2F%2B380502831216)
 ![Static Badge](https://img.shields.io/badge/Daria_Tkachuk%20-%2025D366?style=plastic&logo=WhatsApp&logoColor=white&link=https%3A%2F%2Fwa.me%2F380502831216)
 
-### Responsibilities undertaken in the previous projects: 
+### 👩‍💼 Responsibilities undertaken in the previous projects: 
 
 - Collaborated with senior QA engineers to develop test plans and strategies for various projects.
 - Participated in requirement analysis meetings to understand project goals and functionalities.
@@ -40,7 +40,7 @@ You can esaily find me 📫
 - Communicated effectively with team members to provide status updates, report issues, and discuss testing strategies.
 - Actively participated in daily stand-up meetings, sprint planning, and retrospective meetings.
 
-### Tools that were used:
+### 🧰 Tools that were used:
 - Postman, Devtools, SoapUI, Charles Proxy 
 - JIRA, Bugzilla, Confluence 
 - Agile methodology (Scrum) 
@@ -53,7 +53,7 @@ You can esaily find me 📫
 - Git, Github
 - HTML, CSS
 - Ligthshot
-### Test-documentation
+### 📎 Test-documentation
 
 [- Checklist](https://github.com/DariaTkachukQA/DariaTkachuk/blob/main/Checklist%20for%20Ukrposhta.pdf)
 
@@ -61,3 +61,4 @@ You can esaily find me 📫
 
 [- Test cases](https://github.com/DariaTkachukQA/DariaTkachuk/blob/main/Test%20cases%20Go2Meet%20-%20Home%20page.pdf)
 
+⚡ Fun fact: "I absolutely love traveling and immersing myself in new cultures. I'm sure we'll have plenty to chat about!"
